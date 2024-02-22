@@ -1,0 +1,15 @@
+# Environments
+.venv
+
+# Builds
+build
+
+# Dist
+dist
+
+# Main.spec (pyinstaller)
+main.spec
+
+# Files
+tmp.mp4
+transcription.txt
